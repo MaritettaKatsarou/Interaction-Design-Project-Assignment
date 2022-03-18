@@ -1,8 +1,12 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+
+| First & Last Name |  Uni. Registration Number | GitHub Profiles |   
+| :---      |     :---:      |          ---: | 
+| Maria-Nikoletta Katsarou  | dpsd19051     | [MaritettaKatsarou](https://github.com/MaritettaKatsarou)   | 
+| Artemis Malliakoudi   | dpsd19070    | [ArtemisMalliakoudi](https://github.com/Artem1sM)   | 
+| Evaggelos Panagiaris-Maleas    | dpsd19090     | [VaggelisPanagiaris](https://github.com/VaggelisPanagiaris) |   
+
 
 # Introduction
 
