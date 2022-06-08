@@ -165,3 +165,13 @@ About this item
 
 
 # Sources
+
+https://www.instructables.com/Animal-Micro-Chip-Scanner-RFID-Reader-Arduino/
+
+http://arduiniana.org/libraries/newsoftserial/
+
+https://www.instructables.com/RFID-cat-door/
+
+https://github.com/SensorsIot/Animal-RFID-Reader
+
+https://www.youtube.com/watch?v=GOO84CGBPz8
