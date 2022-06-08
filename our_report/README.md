@@ -175,3 +175,5 @@ https://www.instructables.com/RFID-cat-door/
 https://github.com/SensorsIot/Animal-RFID-Reader
 
 https://www.youtube.com/watch?v=GOO84CGBPz8
+
+https://www.tinkercad.com/things/5qWB0tzlav7-copy-of-sistema-rfid/editel?tenant=circuits
