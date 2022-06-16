@@ -195,38 +195,38 @@ About this item
 
 # Sources
 
-### RFID and I2C LCD
+### :pushpin: RFID and I2C LCD
 
-:link: https://www.instructables.com/Animal-Micro-Chip-Scanner-RFID-Reader-Arduino/
+  :link: https://www.instructables.com/Animal-Micro-Chip-Scanner-RFID-Reader-Arduino/
 
-:link: https://create.arduino.cc/projecthub/sil0613r/a-box-with-rfid-and-i2c-lcd-b2d8e1 
+  :link: https://create.arduino.cc/projecthub/sil0613r/a-box-with-rfid-and-i2c-lcd-b2d8e1 
 
-:link: https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/ 
+  :link: https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/ 
 
-:link: https://surtrtech.com/2018/01/27/quick-guide-to-wire-and-use-the-rc522-rfid-module-with-arduino/ 
+  :link: https://surtrtech.com/2018/01/27/quick-guide-to-wire-and-use-the-rc522-rfid-module-with-arduino/ 
 
-:link: https://circuits4you.com/2016/09/17/i2c-lcd-arduino/
+  :link: https://circuits4you.com/2016/09/17/i2c-lcd-arduino/
 
-:link: https://www.circuitgeeks.com/arduino-i2c-lcd-tutorial/
+  :link: https://www.circuitgeeks.com/arduino-i2c-lcd-tutorial/
 
-:link: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/ 
+  :link: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/ 
 
-### Control Stepper Motor with DRV8825 Driver
+### :pushpin: Control Stepper Motor with DRV8825 Driver
 
-:link: https://lastminuteengineers.com/drv8825-stepper-motor-driver-arduino-tutorial/ 
+  :link: https://lastminuteengineers.com/drv8825-stepper-motor-driver-arduino-tutorial/ 
 
-:link: https://electropeak.com/learn/interfacing-drv8825-stepper-motor-driver-module-with-arduino/ 
+  :link: https://electropeak.com/learn/interfacing-drv8825-stepper-motor-driver-module-with-arduino/ 
 
-### Λοιπά links
+### :pushpin: Λοιπά links
 
-:link: http://arduiniana.org/libraries/newsoftserial/
+  :link: http://arduiniana.org/libraries/newsoftserial/
 
-:link: https://www.instructables.com/RFID-cat-door/
+  :link: https://www.instructables.com/RFID-cat-door/
 
-:link: https://github.com/SensorsIot/Animal-RFID-Reader
+  :link: https://github.com/SensorsIot/Animal-RFID-Reader
 
-:link: https://www.youtube.com/watch?v=GOO84CGBPz8
+  :link: https://www.youtube.com/watch?v=GOO84CGBPz8
 
-:link: https://www.tinkercad.com/things/5qWB0tzlav7-copy-of-sistema-rfid/editel?tenant=circuits
+  :link: https://www.tinkercad.com/things/5qWB0tzlav7-copy-of-sistema-rfid/editel?tenant=circuits
 
-:link: https://forum.arduino.cc/t/arduino-uno-ethernet-rfid-not-working/419221
+  :link: https://forum.arduino.cc/t/arduino-uno-ethernet-rfid-not-working/419221
