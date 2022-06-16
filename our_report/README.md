@@ -160,22 +160,47 @@ About this item
 
 # 3rd Deliverable 
 
+### 1st CASE:  :white_check_mark: Correct Key
+![p1](p1.PNG)
+
+### 2nd CASE: :x: Wrong Key
+![p2](p2.PNG)
+
+### :pushpin: Βήματα κατασκευής:
+1] Σχεδίαση και διαστασιολόγηση
+
+2] Έρευνα και προμήθεια υλικών
+
+3] Κατασκευή πρωτότυπου
+
+4] Συγραφή κώδικα 
+
+5] Συνδεσμολογίες ηλεκτρονικών στοιχείων
+
+6] Τελική συναρμολόγηση 
+
+![p3](p3.png)
+
+![p4](p4.png)
+
 
 # Conclusions
 
 
 # Sources
 
-https://www.instructables.com/Animal-Micro-Chip-Scanner-RFID-Reader-Arduino/
+### RFID and I2C LCD
 
-http://arduiniana.org/libraries/newsoftserial/
+:link: https://www.instructables.com/Animal-Micro-Chip-Scanner-RFID-Reader-Arduino/
 
-https://www.instructables.com/RFID-cat-door/
+:link: http://arduiniana.org/libraries/newsoftserial/
 
-https://github.com/SensorsIot/Animal-RFID-Reader
+:link: https://www.instructables.com/RFID-cat-door/
 
-https://www.youtube.com/watch?v=GOO84CGBPz8
+:link: https://github.com/SensorsIot/Animal-RFID-Reader
 
-https://www.tinkercad.com/things/5qWB0tzlav7-copy-of-sistema-rfid/editel?tenant=circuits
+:link: https://www.youtube.com/watch?v=GOO84CGBPz8
 
-https://forum.arduino.cc/t/arduino-uno-ethernet-rfid-not-working/419221
+:link: https://www.tinkercad.com/things/5qWB0tzlav7-copy-of-sistema-rfid/editel?tenant=circuits
+
+:link: https://forum.arduino.cc/t/arduino-uno-ethernet-rfid-not-working/419221
