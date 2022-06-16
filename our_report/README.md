@@ -183,6 +183,42 @@ About this item
 
 ![p4](p4.png)
 
+### :pushpin: Προμήθεια υλικών:
+
+:bookmark: ALUMINUM GT2 TIMING PULLEY - 16T - 5MM BORE
+
+:bookmark: BASIC 16X2 CHARACTER LCD - BLACK ON GRAY (EU CHARACTERS)
+
+:bookmark: JUMPER WIRES 30CM MALE TO MALE - PACK OF 10
+
+:bookmark: STEPPER MOTOR MOUNT PLASTIC NEMA 17
+
+:bookmark: ΑΝΑΓΝΩΣΤΗΣ NFC/RFID - MFRC-522 13.56MHZ
+
+:bookmark: ΒΗΜΑΤΙΚΟΣ ΚΙΝΗΤΗΡΑΣ 2.8KG.CM (200 STEPS/REV) 42BYGHW208
+
+:bookmark: ΜΠΡΕΛΟΚ RFID - 13.56MHZ ΜΠΛΕ
+
+:bookmark: DRV8825 Stepper Motor Driver
+
+:bookmark: Jumper Wires 30cm Female to Male - Pack of 10
+
+:bookmark: LCD Display I2C Interface Module
+
+:bookmark: Άσπρο σπρέυ
+
+:bookmark: Μπαταρία 9V
+
+:bookmark: Σχοινάκι για ψαροντούφεκο (για το πορτάκι)
+
+### :pushpin: 1η παραγγελία
+![p5](p5.png)
+
+### :pushpin: 2η παραγγελία
+![p6](p6.png)
+
+# Συνολικό Κόστος πρωτότυπου: 78€ :euro:
+
 
 # Conclusions - Ευχαριστήρια
 
@@ -218,6 +254,8 @@ About this item
   :link: https://electropeak.com/learn/interfacing-drv8825-stepper-motor-driver-module-with-arduino/ 
 
 ### :pushpin: Λοιπά links
+
+  :link: https://grobotronics.com/ (ΥΛΙΚΑ)
 
   :link: http://arduiniana.org/libraries/newsoftserial/
 
