@@ -179,9 +179,13 @@ About this item
 
 6] Τελική συναρμολόγηση 
 
+### :pushpin: Διαστασιολόγηση:
+![portaki](portaki.PNG)
+
 ![p3](p3.png)
 
 ![p4](p4.png)
+
 
 ### :pushpin: Προμήθεια υλικών:
 
