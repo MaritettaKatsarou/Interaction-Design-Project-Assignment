@@ -223,6 +223,21 @@ About this item
 
 # Συνολικό Κόστος πρωτότυπου: 78€ :euro:
 
+### Φωτογραφίες απο το Πρωτότυπο:
+### Συνδεσμολογία
+![prototypo1](prototypo1.jpg)
+
+### Διαδικασία σκαναρίσματος
+
+![prototypo2](prototypo2.jpg)
+
+![prototypo3](prototypo3.jpg)
+
+![prototypo4](prototypo4.jpg)
+
+![prototypo5](prototypo5.jpg)
+
+
 
 # Conclusions - Ευχαριστήρια
 
